@@ -1,1 +1,1 @@
-{"latest_code":"3","latest_name":"V1.1","desc":"1.内存优化。\n2.添加关于蔬菜百科信息。"}
+{"latest_code":"2","latest_name":"V1.1","desc":"1.内存优化。\n2.添加关于蔬菜百科信息。"}

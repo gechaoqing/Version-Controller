@@ -1,1 +1,1 @@
-{"latest":"1.1"}
+{"latest_code":"2","latest_name":"V1.1"}

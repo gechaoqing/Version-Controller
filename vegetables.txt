@@ -1,1 +1,1 @@
-{"latest_code":"4","latest_name":"V1.2.1","desc":"1.内存优化。\n2.添加版本更新检测。"}
+{"yyb":{"latest_code":"4","latest_name":"V1.2.1","desc":"1.内存优化。\n2.添加版本更新检测。"},"wdj":{"latest_code":"5","latest_name":"V1.2.2","desc":"1.内存优化。\n2.添加版本更新检测。"}}

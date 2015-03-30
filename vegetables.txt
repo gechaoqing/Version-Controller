@@ -1,1 +1,1 @@
-{"yyb":{"latest_code":"5","latest_name":"V1.2.2","desc":"1.内存优化。\n2.添加版本更新检测。"},"wdj":{"latest_code":"5","latest_name":"V1.2.2","desc":"1.内存优化。\n2.添加版本更新检测。"}}
+{"yyb":{"latest_code":"6","latest_name":"V1.3.0","desc":"1.更新朗读语音缓存逻辑，添加朗读语音缓存清理功能。\n2.新增14种蔬菜(大蒜、乌塌菜、雪里蕻、芥蓝、芹菜、越瓜、青椒、豌豆)等"},"wdj":{"latest_code":"5","latest_name":"V1.2.2","desc":"1.内存优化。\n2.添加版本更新检测。"}}
